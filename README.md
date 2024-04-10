@@ -1,7 +1,7 @@
 # UFO_Sightings_Analysis
 
 ## Resources
-- BCS Tutoring
+- EdX/ASU Tutoring
 - Instructor
 - How to Use Selenium to Web-Scrape with Example: https://towardsdatascience.com/how-to-use-selenium-to-web-scrape-with-example-80f9b23a843a
 - How to perform Web Scraping using Selenium and Python: https://www.browserstack.com/guide/web-scraping-using-selenium-python
