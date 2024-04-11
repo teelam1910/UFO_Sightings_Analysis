@@ -8,3 +8,5 @@
 - Python Requests Module: https://www.w3schools.com/python/module_requests.asp
 - How to Scrape Multiple Pages of a Website Using Python?: https://www.geeksforgeeks.org/how-to-scrape-multiple-pages-of-a-website-using-python/#google_vignette
 - How to Scrape Multiple Web Pages Using Python: https://www.freecodecamp.org/news/how-to-scrape-multiple-web-pages-using-python/
+- Get the data type of column in Pandas – Python: https://www.geeksforgeeks.org/get-the-data-type-of-column-in-pandas-python/
+- Get a list of a particular column values of a Pandas DataFrame: https://www.geeksforgeeks.org/get-a-list-of-a-particular-column-values-of-a-pandas-dataframe/
