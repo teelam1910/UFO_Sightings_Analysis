@@ -12,3 +12,9 @@
 - Get a list of a particular column values of a Pandas DataFrame: https://www.geeksforgeeks.org/get-a-list-of-a-particular-column-values-of-a-pandas-dataframe/
 - https://www.naturalearthdata.com/downloads/10m-cultural-vectors/
 - https://hvplot.holoviz.org/getting_started/hvplot.html
+- https://www.linkedin.com/pulse/how-deploy-html-website-github-deekshith-h-r-gh9zc/
+- https://flask.palletsprojects.com/en/3.0.x/tutorial/
+- https://flask.palletsprojects.com/en/3.0.x/tutorial/templates/
+- https://plotly.com/python/
+- https://jupyter.org/widgets#:~:text=Notebooks%20come%20alive%20when%20interactive,a%20model%20impacts%20the%20results.
+- https://www.geeksforgeeks.org/interactive-graphs-in-jupyter-notebook/
