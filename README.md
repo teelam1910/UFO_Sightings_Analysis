@@ -10,3 +10,5 @@
 - How to Scrape Multiple Web Pages Using Python: https://www.freecodecamp.org/news/how-to-scrape-multiple-web-pages-using-python/
 - Get the data type of column in Pandas – Python: https://www.geeksforgeeks.org/get-the-data-type-of-column-in-pandas-python/
 - Get a list of a particular column values of a Pandas DataFrame: https://www.geeksforgeeks.org/get-a-list-of-a-particular-column-values-of-a-pandas-dataframe/
+- https://www.naturalearthdata.com/downloads/10m-cultural-vectors/
+- https://hvplot.holoviz.org/getting_started/hvplot.html
