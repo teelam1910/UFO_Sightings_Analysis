@@ -9,6 +9,12 @@
 
 <img width="665" alt="image" src="https://github.com/teelam1910/UFO_Sightings_Analysis/assets/152451436/68204603-d7dd-4560-b5e1-562a6c08c7cc">
 
+# Data Visualizations
+
+![USA Compared To Other Countries Sightings](https://github.com/teelam1910/UFO_Sightings_Analysis/assets/152451436/f888f305-7ed1-41d4-bede-9d307fcc04ab)
+
+![USA Shape Type Sightings](https://github.com/teelam1910/UFO_Sightings_Analysis/assets/152451436/90b4ccb8-45e1-421b-a454-9f44e6cae776)
+
 # Tools
 * Web Scraping (Jupyter Notebook and BeautifulSoup)
 * SQL (PostgreSQL)
@@ -17,3 +23,4 @@
 
 # Resources
 * https://clickup.com/?noRedirect=true&_gl=1*ho0b2x*_gcl_au*MjY3NDM2MDMuMTcxMjYzMjc2MQ
+* https://nuforc.org/databank/
