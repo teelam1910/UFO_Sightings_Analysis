@@ -1,5 +1,11 @@
 # UFO_Sightings_Analysis
 
+## Team Members (Group 5)
+Angelica, Tiffany, & Taryn
+ 
+## Project Description
+We investigated UFO sightings and their frequencies. Our aim is to determine which states have the most UFO sightings and which have the fewest. Secondary to this, we’ll analyze data to determine if UFO sightings are most common in the United States of America or other countries. We will use a comprehensive dataset from the National UFO Reporting Center and generate visuals based on our findings with Python, SQL, Data Visualization, and Project Management. 
+
 ## Project Timeline
 
 * Monday (4/8): Project Proposal
