@@ -51,12 +51,14 @@ Our project prioritizes ethical considerations, particularly regarding the priva
 - Database Creation: Resouces directory --> **highlighted_data.sql** **highlighted_data.csv**
 - Interactive links: **hourly_sightings_bar.html**, **ufo_sightings.html**, **ufo_sightings_heatmap.html**; Also available to view in jupyter notebook file
 - Attempted interactives: [app.py]; static directory; templates directory
+- Powerpoint: UFO_sightings_analysisp.pptx
 
 ## Features
 * Web Scraping (Jupyter Notebook and BeautifulSoup)
 * SQL (PostgreSQL)
 * Data Visualization (Jupyter Notebook and Bubbly)
 * Project Management (ClickUp)
+* Power Point
 
 ### Engineering
 **Web Scraping** URL = 'https://nuforc.org/subndx/?id=highlights' the 'Highlighted NUFORC Reports' (Jupyter Notebook and BeautifulSoup)
