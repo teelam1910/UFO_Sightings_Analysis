@@ -123,6 +123,8 @@ Given more time for project adjustments and with more experience, we would explo
 - https://plotly.com/python/
 - https://jupyter.org/widgets#:~:text=Notebooks%20come%20alive%20when%20interactive,a%20model%20impacts%20the%20results.
 - https://www.geeksforgeeks.org/interactive-graphs-in-jupyter-notebook/
+- https://github.com/AashitaK/bubbly
+- https://www.kaggle.com/code/aashita/guide-to-animated-bubble-charts-using-plotly 
 
 
 ## Credits
